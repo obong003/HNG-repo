@@ -1,3 +1,3 @@
 Hello HNG
 
-Description
+Description of the project
